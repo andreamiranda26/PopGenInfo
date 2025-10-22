@@ -1,0 +1,49 @@
+Theme,Source_A,Target_B,m_hat,m_95CI,Topic_bin_transitions,Distinct_topics,Events
+Human_wildlife_conflict,Non Governmental Organization,Journalist,0.7871277779449224,"0.79 [0.30, 1.00]",12,6,1
+Human_wildlife_conflict,Executive,Legislature,0.777094083412859,"0.78 [0.42, 0.96]",11,5,1
+Human_wildlife_conflict,Journalist,Legislature,0.7699158391772878,"0.77 [0.43, 1.00]",11,6,3
+Human_wildlife_conflict,Non Governmental Organization,Legislature,0.6916854078946866,"0.69 [0.40, 0.88]",8,5,1
+Human_wildlife_conflict,Executive,Journalist,0.5199219611810816,"0.52 [0.32, 0.79]",15,6,2
+Human_wildlife_conflict,Non Governmental Organization,Executive,0.4076573637550139,"0.41 [0.23, 0.57]",12,4,2
+Human_wildlife_conflict,Journalist,Non Governmental Organization,0.3337026934763287,"0.33 [0.16, 0.56]",12,6,3
+Human_wildlife_conflict,Executive,Non Governmental Organization,0.27665638466435344,"0.28 [0.20, 0.38]",12,4,2
+Human_wildlife_conflict,Legislature,Non Governmental Organization,0.2662104552791153,"0.27 [0.09, 0.58]",8,5,1
+Human_wildlife_conflict,Legislature,Executive,0.2263395652335027,"0.23 [0.04, 0.33]",11,5,0
+Human_wildlife_conflict,Legislature,Journalist,0.2052578466870215,"0.21 [0.05, 0.44]",11,6,0
+Human_wildlife_conflict,Journalist,Executive,0.17736836220482363,"0.18 [0.00, 0.50]",15,6,2
+Law_detailed,Journalist,Legislature,1,"1.00 [0.32, 1.00]",13,4,4
+Law_detailed,Executive,Legislature,1,"1.00 [0.00, 1.00]",7,4,1
+Law_detailed,Journalist,Non Governmental Organization,0.5956996213586968,"0.60 [0.00, 1.00]",13,4,0
+Law_detailed,Executive,Non Governmental Organization,0.4788913697259135,"0.48 [0.00, 1.00]",6,3,0
+Law_detailed,Legislature,Non Governmental Organization,0.41322268326417705,"0.41 [0.00, 0.92]",7,3,0
+Law_detailed,Non Governmental Organization,Legislature,0.3956182572614108,"0.40 [0.00, 1.00]",7,3,1
+Law_detailed,Journalist,Executive,0.13230129519828815,"0.13 [0.00, 0.26]",14,4,2
+Law_detailed,Executive,Journalist,0,"0.00 [0.00, 0.23]",14,4,1
+Law_detailed,Non Governmental Organization,Executive,0,"0.00 [0.00, 1.00]",6,3,1
+Law_detailed,Legislature,Executive,0,"0.00 [0.00, 0.34]",7,4,0
+Law_detailed,Legislature,Journalist,0,"0.00 [0.00, 0.71]",13,4,0
+Law_detailed,Non Governmental Organization,Journalist,0,"0.00 [0.00, 0.17]",13,4,0
+Recovery_goals,Legislature,Non Governmental Organization,0.8872603273752179,"0.89 [0.00, 1.00]",5,3,1
+Recovery_goals,Journalist,Legislature,0.7314961897735492,"0.73 [0.00, 0.91]",9,4,1
+Recovery_goals,Executive,Legislature,0.6533514767733227,"0.65 [0.00, 1.00]",12,4,2
+Recovery_goals,Executive,Non Governmental Organization,0.5651010605190081,"0.57 [0.00, 0.87]",14,4,2
+Recovery_goals,Journalist,Non Governmental Organization,0.4936940719486178,"0.49 [0.00, 0.88]",9,4,1
+Recovery_goals,Journalist,Executive,0.27195247002776857,"0.27 [0.17, 0.65]",13,4,1
+Recovery_goals,Non Governmental Organization,Journalist,0.27133946046539004,"0.27 [0.12, 0.78]",9,4,0
+Recovery_goals,Executive,Journalist,0.23320447102919137,"0.23 [0.04, 0.97]",13,4,2
+Recovery_goals,Non Governmental Organization,Executive,0.22563498774194746,"0.23 [0.12, 0.39]",14,4,2
+Recovery_goals,Non Governmental Organization,Legislature,0.22001263616362488,"0.22 [0.00, 0.31]",5,3,0
+Recovery_goals,Legislature,Executive,0.07821002870659034,"0.08 [0.00, 0.68]",12,4,0
+Recovery_goals,Legislature,Journalist,0.05976013211801422,"0.06 [0.00, 0.83]",9,4,1
+State_of_science,Executive,Non Governmental Organization,0.7907384946350492,"0.79 [0.28, 0.94]",12,6,0
+State_of_science,Legislature,Non Governmental Organization,0.776300350153311,"0.78 [0.26, 0.95]",12,6,2
+State_of_science,Executive,Journalist,0.7501155331615378,"0.75 [0.43, 1.00]",10,6,2
+State_of_science,Legislature,Journalist,0.5467524175479737,"0.55 [0.13, 0.91]",9,5,1
+State_of_science,Journalist,Non Governmental Organization,0.5071231308206715,"0.51 [0.14, 0.90]",14,6,3
+State_of_science,Journalist,Executive,0.3437959652363597,"0.34 [0.00, 0.77]",10,6,2
+State_of_science,Non Governmental Organization,Journalist,0.34357697713976737,"0.34 [0.10, 0.87]",14,6,2
+State_of_science,Legislature,Executive,0.3177063002576313,"0.32 [0.06, 1.00]",9,5,1
+State_of_science,Journalist,Legislature,0.30234861174940947,"0.30 [0.09, 0.55]",9,5,1
+State_of_science,Non Governmental Organization,Legislature,0.24520446292592737,"0.25 [0.06, 0.34]",12,6,2
+State_of_science,Executive,Legislature,0.18567826849687485,"0.19 [0.06, 0.25]",9,5,0
+State_of_science,Non Governmental Organization,Executive,0.16200485826290872,"0.16 [0.00, 0.77]",12,6,2
